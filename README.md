@@ -1,4 +1,4 @@
-# Juliet - Through-hole staggered 40% keyboard PCB for 60% cases
+# Juliet - Through-hole 40% keyboard PCB for 60% cases
 
 Juliet is a 40% keyboard PCB using through-hole components for that visible component aesthetic.
 
@@ -6,18 +6,25 @@ The goal of this project is to build an all through-hole component 40% PCB that 
 
 Inspired by the [Plaid](https://github.com/hsgw/plaid) and the [Romeo](https://github.com/coseyfannitutti/romeo).
 
-![PCB render](images/pcb-render.jpg)
+![PCB staggered render](images/pcb-staggered-render.jpg)
+![PCB ortholinear render](images/pcb-ortho-render.jpg)
 
 * Designed to be easy to build with minimal soldering experience.
 * All through-hole components, no SMD soldering required.
 * Get that visible component aesthetic in a standard 60% tray-mount case.
+* Staggered and ortholinear varieties.
 * Supports both USB Mini and USB-C.
 
-![PCB design](images/pcb-design.png)
+![PCB staggered design](images/pcb-staggered-design.png)
+![PCB ortholinear design](images/pcb-ortho-design.png)
 
-The layout is a number row-less 60% layout with split spacebar or 7u bottom row and split right shift. An arrow cluster layout is also supported by moving the right shift.
+The staggered layout is a number row-less 60% layout with split spacebar or 7u bottom row and split right shift. An arrow cluster layout is also supported by moving the right shift.
 
-![Supported layouts](images/layouts.png)
+![Supported staggered layouts](images/layouts-staggered.png)
+
+The ortholinear layout is a 15x4 grid with full grid, 2x2u spacebars in a split configuration, or 7u spacebar.
+
+![Supported ortholinear layouts](images/layouts-ortho.png)
 
 # Ordering parts
 
