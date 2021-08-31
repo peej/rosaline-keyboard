@@ -1,6 +1,6 @@
-# Juliet - Through-hole 40% keyboard PCB for 60% cases
+# Rosaline - Through-hole 40% keyboard PCB for 60% cases
 
-Juliet is a 40% keyboard PCB using through-hole components for that visible component aesthetic.
+Rosaline is a 40% keyboard PCB using through-hole components for that visible component aesthetic.
 
 The goal of this project is to build an all through-hole component 40% PCB that fits in a standard 60% tray mount case.
 
