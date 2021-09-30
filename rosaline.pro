@@ -1,4 +1,4 @@
-update=2021 May 22, Saturday 16:31:24
+update=2021 September 30, Thursday 20:39:14
 version=1
 last_client=kicad
 [cvpcb]
@@ -22,7 +22,7 @@ ERC_TestSimilarLabels=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=juliet.net
+LastNetListRead=rosaline.net
 CopperLayerCount=2
 BoardThickness=1.6
 AllowMicroVias=0
