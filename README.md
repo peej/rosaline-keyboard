@@ -7,7 +7,6 @@ The goal of this project is to build an all through-hole component 40% PCB that 
 Inspired by the [Plaid](https://github.com/hsgw/plaid) and the [Romeo](https://github.com/coseyfannitutti/romeo).
 
 ![PCB staggered render](images/pcb-staggered-render.jpg)
-![PCB ortholinear render](images/pcb-ortho-render.jpg)
 
 * Designed to be easy to build with minimal soldering experience.
 * All through-hole components, no SMD soldering required.
@@ -16,15 +15,10 @@ Inspired by the [Plaid](https://github.com/hsgw/plaid) and the [Romeo](https://g
 * Supports both USB Mini and USB-C.
 
 ![PCB staggered design](images/pcb-staggered-design.png)
-![PCB ortholinear design](images/pcb-ortho-design.png)
 
-The staggered layout is a number row-less 60% layout with split spacebar or 7u bottom row and split right shift. An arrow cluster layout is also supported by moving the right shift.
+The layout is a number row-less 60% layout with split spacebar or 7u bottom row and split right shift. An arrow cluster layout is also supported by moving the right shift.
 
 ![Supported staggered layouts](images/layouts-staggered.png)
-
-The ortholinear layout is a 15x4 grid with full grid, 2x2u spacebars in a split configuration, or 7u spacebar.
-
-![Supported ortholinear layouts](images/layouts-ortho.png)
 
 # Ordering parts
 
@@ -40,7 +34,7 @@ Ensure that polarised components (diodes, LEDs, electrolytic capacitor (C3), IC 
 
 # Firmware
 
-TBD.
+Firmware has not been merged into QMK upstream as of yet.
 
 ## Matrix information
 
